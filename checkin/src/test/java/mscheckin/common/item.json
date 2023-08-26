@@ -1,0 +1,7 @@
+{
+	"CodigoSeguridad": "${CodigoSeguridad}",
+	"HoraCheckIn": "${HoraCheckIn}",	
+	"EstadoPaciente": "${EstadoPaciente}",	
+	"Descripcion": "${Descripcion}",
+	"NumeroAsiento": "${NumeroAsiento}"
+}
